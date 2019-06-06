@@ -4,9 +4,9 @@ TicTacToe Game created using Flutter.
 
 ## Screenshots
 
-![Alt text](https://github.com/tsvillain/tictactoe-flutter/screenshot/android1?raw=true "Screenshot 1")
+![Alt text](https://github.com/tsvillain/tictactoe-flutter/screenshot/android1.png?raw=true "Screenshot 1")
 
-![Alt text](https://github.com/tsvillain/tictactoe-flutter/screenshot/android2?raw=true "Screenshot 2")
+![Alt text](https://github.com/tsvillain/tictactoe-flutter/screenshot/android2.png?raw=true "Screenshot 2")
 
 # Copyright contents
 
