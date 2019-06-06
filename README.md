@@ -1,16 +1,13 @@
 # tictactoe
 
-A new Flutter project.
+TicTacToe Game created using Flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Alt text](/screenshot/android1?raw=true "Screenshot 1")
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](/screenshot/android2?raw=true "Screenshot 2")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Copyright contents
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<div>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
